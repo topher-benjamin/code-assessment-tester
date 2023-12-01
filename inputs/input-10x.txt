@@ -1,0 +1,66 @@
+Partner Chris
+Partner Molly
+Company Globex
+Company ACME
+Employee Laurie Globex
+Company Hooli
+Employee Abdi Hooli
+Employee Jamie Globex
+Contact Laurie Chris email
+Contact Laurie Molly call
+Partner Rezzan
+Contact Abdi Molly email
+Contact Laurie Chris coffee
+Partner Alex
+Partner Jordan
+Company Initech
+Company Vehement
+Company MassiveDynamic
+Employee Tom Initech
+Employee Peter Initech
+Employee Angela MassiveDynamic
+Employee Ethan Vehement
+Employee Sarah ACME
+Employee Alice Globex
+Employee Bob Hooli
+Employee Charlie Initech
+Employee Dana Initech
+Employee Evan Hooli
+Employee Fiona ACME
+Employee George Vehement
+Contact Tom Alex email
+Contact Peter Alex call
+Contact Angela Jordan coffee
+Contact Ethan Rezzan email
+Contact Sarah Molly call
+Contact Alice Chris coffee
+Contact Bob Alex email
+Contact Charlie Molly call
+Contact Dana Rezzan coffee
+Contact Evan Chris email
+Contact Fiona Alex call
+Contact George Jordan coffee
+Partner Taylor
+Partner Morgan
+Company EndoTech
+Company NeoSoft
+Employee Henry EndoTech
+Employee Ian EndoTech
+Employee Julia NeoSoft
+Employee Kevin NeoSoft
+Employee Lily EndoTech
+Employee Mike NeoSoft
+Employee Nora EndoTech
+Employee Oscar NeoSoft
+Employee Paula EndoTech
+Employee Quinn NeoSoft
+Contact Henry Taylor email
+Contact Ian Morgan call
+Contact Julia Taylor coffee
+Contact Kevin Morgan email
+Contact Lily Taylor call
+Contact Mike Morgan coffee
+Contact Nora Taylor email
+Contact Oscar Morgan call
+Contact Paula Taylor coffee
+Contact Quinn Morgan email
